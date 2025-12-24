@@ -31,7 +31,10 @@ The smplh parameter file is generate by a music2dance algo., i.e. [LODGE](https:
 ```
 python smplh2vmd.py --input_smplh_dir /path/to/smplh_model --output_dir /path/to/output_dir
 ```
+**There are some other [bones maps](./bones_maps)**
+
 example output:
+
 ![example](./assets/example.jpg)
 
 ## Acknowledgement
