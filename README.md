@@ -20,7 +20,7 @@ Download the [mmd_tools](https://github.com/UuuNyaa/blender_mmd_tools/releases/t
 
     cd conda_env_dirs/smplh2vmd/lib/python3.11/site-packages/bpy/4.2/scripts
     mkdir addons
-    cp -r mmd_tools conda_env_dirs/smplh2vmd/lib/python3.11/site-packages/bpy/4.2/scripts
+    cp -r mmd_tools conda_env_dirs/smplh2vmd/lib/python3.11/site-packages/bpy/4.2/scripts/addons
     ```
 - SMPLH model prepare
 
